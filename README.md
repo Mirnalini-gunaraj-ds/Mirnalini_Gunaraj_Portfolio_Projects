@@ -1,5 +1,5 @@
-# Mirnalini_Gunaraj_Portfolio_Projects
-Sales Forecasting of a superstore using Time Series Model:
+
+# Sales Forecasting of a superstore using Time Series Model:
    
   
   
